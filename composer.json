@@ -1,17 +1,22 @@
 {
-    "name": "exteon/memory-helper",
-    "description": "A PHP helper implementin common memory operations",
-    "type": "library",
-    "authors": ["Dinu Marina"],
-    "license": "https://www.apache.org/licenses/LICENSE-2.0",
-    "require": {},
-    "autoload": {
-        "psr-4": {
-            "Exteon\\": "src"
-        }
-    },
-    "require-dev": {
-        "phpdocumentor/phpdocumentor": "^2.9",
-        "evert/phpdoc-md": "^0.2.0"
+  "name": "exteon/memory-helper",
+  "description": "A PHP helper implementin common memory operations",
+  "type": "library",
+  "homepage": "https://github.com/exteon/memory-helper",
+  "authors": [
+    {
+      "name": "Dinu Marina"
     }
+  ],
+  "license": "https://www.apache.org/licenses/LICENSE-2.0",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Exteon\\": "src"
+    }
+  },
+  "require-dev": {
+    "phpdocumentor/phpdocumentor": "^2.9",
+    "evert/phpdoc-md": "^0.2.0"
+  }
 }
