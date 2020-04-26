@@ -1,7 +1,7 @@
 Exteon\MemoryHelper
 ===============
 
-This helper class is used to perform som common PHP memory management
+This helper class is used to perform some common PHP memory management
 operations
 
 

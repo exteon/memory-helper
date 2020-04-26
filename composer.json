@@ -2,6 +2,7 @@
     "name": "exteon/memory-helper",
     "description": "A PHP helper implementin common memory operations",
     "type": "library",
+    "authors": ["Dinu Marina"],
     "license": "https://www.apache.org/licenses/LICENSE-2.0",
     "require": {},
     "autoload": {
