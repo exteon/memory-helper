@@ -5,4 +5,4 @@ This helper class is used to perform some common PHP memory management operation
 ## Documentation
 
 [MD](docs/md/ApiIndex.md)  
-[HTML]
+[HTML](https://exteon.github.io/memory-helper/classes/Exteon.MemoryHelper.html)
