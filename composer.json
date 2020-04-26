@@ -1,0 +1,16 @@
+{
+    "name": "exteon/memory-helper",
+    "description": "A PHP helper implementin common memory operations",
+    "type": "library",
+    "license": "https://www.apache.org/licenses/LICENSE-2.0",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Exteon\\": "src"
+        }
+    },
+    "require-dev": {
+        "phpdocumentor/phpdocumentor": "^2.9",
+        "evert/phpdoc-md": "^0.2.0"
+    }
+}
