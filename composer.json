@@ -8,7 +8,7 @@
       "name": "Dinu Marina"
     }
   ],
-  "license": "https://www.apache.org/licenses/LICENSE-2.0",
+  "license": "Apache-2.0",
   "require": {},
   "autoload": {
     "psr-4": {
