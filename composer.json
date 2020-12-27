@@ -3,6 +3,7 @@
   "description": "A PHP helper implementin common memory operations",
   "type": "library",
   "homepage": "https://github.com/exteon/memory-helper",
+  "version": "1.0.1",
   "authors": [
     {
       "name": "Dinu Marina"
